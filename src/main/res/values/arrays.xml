@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="farbliste">
+        <item>Schwarz</item>
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Grün</item>
+        <item>Blau</item>
+    </string-array>
+    <string-array name="farblistenwerte">
+        <item>Schwarz</item>
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Grün</item>
+        <item>Blau</item>
+    </string-array>
+</resources>

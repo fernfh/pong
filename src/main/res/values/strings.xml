@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pong2</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <string name="start_game">Start Game</string>
+</resources>
