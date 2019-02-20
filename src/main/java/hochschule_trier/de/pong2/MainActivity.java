@@ -42,7 +42,7 @@ class Pong2View extends SurfaceView implements SurfaceHolder.Callback, SensorEve
     private static final int SHRINKAGE = 5;
     private static final int MINRADIUS = 3;
     private static final int INITRADIUS = 100;
-    private static final float PITCHFACTOR = 1;
+    private static final float PITCHFACTOR = 2;
     private final float paddleXpos = 10; //Position aendert sich nicht. x-Koordinate der oberen linken Ecke des Rechteck
     private Paint paintText = new Paint();
     private int textColor = 0xFFFFFF00;
